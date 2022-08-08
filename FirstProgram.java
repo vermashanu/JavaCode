@@ -1,4 +1,4 @@
-public class JavaBasics{
+public class FirstProgram{
     public static void main(String args[]){
 
     // 1. printing outputs in Java    
