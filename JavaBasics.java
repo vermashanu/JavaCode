@@ -1,5 +1,7 @@
 public class JavaBasics{
     public static void main(String args[]){
+        
+        // 1. boilerplate code
     /*
         int a=10;
         int b=56;
@@ -16,9 +18,7 @@ public class JavaBasics{
 
     */
 
-    // primitive datatypes
-
-
+    // 2. primitive datatypes
     /*byte by = 5;           // can store upto 256 values only : occupies 1 Byte = 8 bits : -128 to 127
     System.out.println(by);
     char c = 'd';         // can only store one character    : 2 Bytes
@@ -32,7 +32,7 @@ public class JavaBasics{
     double db = 12345.67; // can store large decimal values  : 8 Bytes
     */
 
-    // sum of two numbers
+    //sum of two numbers
     int a =12;
     int b =5;
     int sum = a+b;
@@ -42,4 +42,4 @@ public class JavaBasics{
     }
 }
 
-// boilerplate code
+
