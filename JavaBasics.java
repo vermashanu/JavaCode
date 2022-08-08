@@ -32,7 +32,7 @@ public class JavaBasics{
     double db = 12345.67; // can store large decimal values  : 8 Bytes
     */
 
-    //sum of two numbers
+    //code to calculate sum of two numbers
     int a =12;
     int b =5;
     int sum = a+b;
